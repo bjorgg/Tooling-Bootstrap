@@ -10,4 +10,4 @@ On one hand I thought it complicated things having to figure out the styling of 
 because I knew how to do them in css. But on the other hand there is so much that you get with it
 that simplify the work like the responsiveness.
 
-Public url:
+Public url: https://bjorgg.github.io/Tooling-Bootstrap/
